@@ -15,7 +15,7 @@ library(dplyr)
 library(mlogit)
 library(xtable)  # for LaTeX tables
 
-
+#je fais un commit
 
 # ------ TASK 1 ------
 
